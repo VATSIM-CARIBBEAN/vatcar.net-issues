@@ -1,6 +1,6 @@
 # vatcar.net – Public Issues Tracker
 
-Welcome to the **public issue tracker** for [vatcar.net](https://github.com/VATSIM-CARIBBEAN/vatcar.net) 
+Welcome to the **public issue tracker** for [vatcar.net](https://vatcar.net) 
 This repository is dedicated **only** to reporting bugs, requesting features, and discussing ideas.
 
 > The main codebase for vatcar.net is private.  
